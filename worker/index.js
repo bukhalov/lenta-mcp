@@ -1,6 +1,3 @@
-Failed to create stream fd: Operation not permitted
-Failed to create stream fd: Operation not permitted
-Failed to create stream fd: Operation not permitted
 const API = "https://integration.api.lenta.com";
 const CHANNELS = new Set(["cc", "lo", "locc", "utk", "b2b", "ozn"]);
 const BRANDS = new Set(["lo", "utk", "smy", "mntk", "obi", "antares", "remi", "ulybka_radugi"]);
